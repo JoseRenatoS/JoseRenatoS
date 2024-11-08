@@ -1,9 +1,10 @@
 ## Olá, meu nome é José Renato!
 
-- 🎓 Sou graduando no Curso de Engenharia Elétrica pelo Centro Universitário de Valença (UNIFAA) e  sou formado como Técnico em Mecânica pelo Instituto Federal do Rio de Janeiro (IFRJ - Campus Paracambi).
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=JoseRenatoS&show_icons=true&theme=neon" alt="Estatística do GitHub de José Renato">
+
+- 📚 Sou graduando em Engenharia Elétrica pelo Centro Universitário de Valença (UNIFAA), previsão dez/2024.
+- 🎓 Sou formado como Técnico em Mecânica pelo Instituto Federal do Rio de Janeiro (IFRJ - Campus Paracambi) em dez/2019.
 - 😄 Pronome: Ele/Dele
-<br><br>
-[![JoseRenatoS's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseRenatoS&show_icons=true&theme=neon)](https://github.com/JoseRenatoS/github-readme-stats)
 
 <br><br><br>
 
