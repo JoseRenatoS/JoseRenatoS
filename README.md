@@ -6,13 +6,25 @@
 - 📫 How to reach me ...
 - 😄 Pronome: Ele/Dele
 - ⚡ Fun fact: ...
+<br><br>
 
-  
 
-## 💻 Linguagens de Programação
-<code><img height="32" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="c"/></code>
-<code><img height="32" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="c++"/></code>
-<code><img height="32" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="c++"/></code>
+## 💻 Hard Skills
+<div align="center">
+  <code><img height="32" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="c"/></code>
+  <code><img height="32" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="c++"/></code>
+  <code><img height="32" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="c++"/></code>
+</div>
+<br>
+
+[![JoseRenatoS's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseRenatoS&show_icons=true&theme=neon)](https://github.com/JoseRenatoS/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseRenatoS&layout=compact)](https://github.com/JoseRenatoS/github-readme-stats)
+
+<br><br>
+
+
+
 
 
 
@@ -29,9 +41,7 @@ Duração: Fevereiro/2020 a Dezembro/2024 \
 **Técnico em Mecânica** \
 [**IFRJ**](https://www.ifrj.edu.br/) \
 Duração: Maio/2015 a Dezembro/2018 \
-<br/>
-
-
+<br><br>
 
 ## 💼 Experiência Profissional
 
@@ -40,26 +50,40 @@ Duração: Maio/2015 a Dezembro/2018 \
 [**IFRJ**](https://www.ifrj.edu.br/) \
 Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, \
 Projetos em destaque: [Rocket](), [Marte]()
-<br/>
+<br><br>
 
 
 
 ## 📞📧📫 Onde me Encontrar
-<p align="left">
-  <a href="mailto:joserenat.s@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/joserenatosdasilva/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/55992190671" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://instagram.com/joserenat_/" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
 
+<div>
+  <p align="left">
+    <a href="https://github.com/JoseRenatoS" title="GitHub">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/joserenatosdasilva/" title="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.instagram.com/joserenat_/" title="Instagram">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="mailto:joserenat.s@outlook.com" title="Outlook">
+      <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+    </a>
+    <a href="https://wa.me/55992190671" title="WhatsApp">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    </a>
+    <a href="https://t.me/joserenat_s" title="Telegram">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+    <a href="" title="WeChat">
+      <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
+    </a>
+    <a href="" title="Snapchat">
+      <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" alt="Snapchat"/>
+    </a>
+  </p>
+</div>
 
 <!---
 JoseRenatoS/JoseRenatoS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
