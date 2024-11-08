@@ -57,28 +57,28 @@ Projetos em destaque: [Rocket](), [Marte]()
 <div>
   <p align="left">
     <a href="https://github.com/JoseRenatoS" title="GitHub">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/GitHub-111114?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <a href="https://www.linkedin.com/in/joserenatosdasilva/" title="LinkedIn">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0a6bca?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://www.instagram.com/joserenat_/" title="Instagram">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+      <img src="https://img.shields.io/badge/Instagram-8e15fc?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
     <a href="mailto:joserenat.s@outlook.com" title="Outlook">
-      <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+      <img src="https://img.shields.io/badge/Microsoft_Outlook-0365b7?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
     </a>
     <a href="https://wa.me/55992190671" title="WhatsApp">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+      <img src="https://img.shields.io/badge/WhatsApp-31d34e?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
     </a>
     <a href="https://t.me/joserenat_s" title="Telegram">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+      <img src="https://img.shields.io/badge/Telegram-2ca2dd?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
     <a href="" title="WeChat">
-      <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
+      <img src="https://img.shields.io/badge/WeChat-0fcb1b?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
     </a>
     <a href="" title="Snapchat">
-      <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" alt="Snapchat"/>
+      <img src="https://img.shields.io/badge/Snapchat-f8f501?style=for-the-badge&logo=snapchat&logoColor=white" alt="Snapchat"/>
     </a>
   </p>
 </div>
