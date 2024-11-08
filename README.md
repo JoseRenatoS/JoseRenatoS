@@ -1,33 +1,33 @@
 ## Olá, meu nome é José Renato!
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🎓 Sou graduando no Curso de Engenharia Elétrica pelo Centro Universitário de Valença (UNIFAA) e  sou formado como Técnico em Mecânica pelo Instituto Federal do Rio de Janeiro (IFRJ - Campus Paracambi).
 - 😄 Pronome: Ele/Dele
-- ⚡ Fun fact: ...
 <br><br>
+[![JoseRenatoS's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseRenatoS&show_icons=true&theme=neon)](https://github.com/JoseRenatoS/github-readme-stats)
+
+<br><br><br>
 
 
 ## 💻 Hard Skills
-<div align="center">
+<div align="left">
   <code><img height="32" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="c"/></code>
   <code><img height="32" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="c++"/></code>
-  <code><img height="32" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="c++"/></code>
+  <code><img height="32" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python"/></code>
+  <code><img height="32" src="https://img.icons8.com/?size=100&id=F6H2fsqXKBwH&format=png&color=000000" alt="notion"/></code>
 </div>
 <br>
 
-[![JoseRenatoS's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseRenatoS&show_icons=true&theme=neon)](https://github.com/JoseRenatoS/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseRenatoS&layout=compact)](https://github.com/JoseRenatoS/github-readme-stats)
 
-<br><br>
+<br><br><br>
 
 
 
 
 
-
+<!-- ISSO É COMENTÁRIO
 ## 📚 Experiência Acadêmica
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fis5-ssl.mzstatic.com%2Fimage%2Fthumb%2FPurple112%2Fv4%2Fe0%2Fca%2Fb7%2Fe0cab773-54b9-1814-4ce0-350edb9a8d5f%2FAppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png%2F512x512bb.jpg&f=1&nofb=1&ipt=4842817294fba9228093c1153caff26b0910f4ff776e87954bdf017bbde84aae&ipo=images"/>]()
@@ -41,7 +41,7 @@ Duração: Fevereiro/2020 a Dezembro/2024 \
 **Técnico em Mecânica** \
 [**IFRJ**](https://www.ifrj.edu.br/) \
 Duração: Maio/2015 a Dezembro/2018 \
-<br><br>
+<br><br><br>
 
 ## 💼 Experiência Profissional
 
@@ -50,12 +50,10 @@ Duração: Maio/2015 a Dezembro/2018 \
 [**IFRJ**](https://www.ifrj.edu.br/) \
 Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, \
 Projetos em destaque: [Rocket](), [Marte]()
-<br><br>
+<br><br><br>
+-->
 
-
-
-## 📞📧📫 Onde me Encontrar
-
+## 📍 Onde me Encontrar
 <div>
   <p align="left">
     <a href="https://github.com/JoseRenatoS" title="GitHub">
