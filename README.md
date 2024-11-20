@@ -5,6 +5,7 @@
 - 📚 Sou graduando em Engenharia Elétrica pelo Centro Universitário de Valença (UNIFAA), previsão dez/2024.
 - 🎓 Sou formado como Técnico em Mecânica pelo Instituto Federal do Rio de Janeiro (IFRJ - Campus Paracambi) em dez/2019.
 - 😄 Pronome: Ele/Dele
+- 🔖 _"Noventa e nove por cento de tudo que você procura está na internet. O um por cento que falta estará no dia seguinte"_. - Roberto Coelho
 
 <br><br><br>
 
