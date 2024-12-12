@@ -2,7 +2,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=JoseRenatoS&show_icons=true&theme=neon" alt="Estatística do GitHub de José Renato">
 
-- 🎓 Engenheiro Eletricista pelo UNIFAA e Técnico em Mecânica pelo IFRJ.
+- 🎓 Formado em Engenharia Elétrica pelo UNIFAA e em Técnico em Mecânica pelo IFRJ.
 - 📚 ...
 - 😄 Pronome: Ele/Dele
 - 🔖 _"Noventa e nove por cento de tudo que você procura está na internet. O um por cento que falta estará no dia seguinte"_. - Roberto Coelho
