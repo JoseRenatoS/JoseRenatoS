@@ -2,8 +2,9 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=JoseRenatoS&show_icons=true&theme=neon" alt="Estatística do GitHub de José Renato">
 
-- 🎓 Formado em Engenharia Elétrica pelo UNIFAA e em Técnico em Mecânica pelo IFRJ.
-- 📚 ...
+- 🎓 Formado em Engenharia Elétrica pelo UNIFAA (2024) e em Técnico em Mecânica pelo IFRJ (2019).
+- 📚 Cursando 'MBA em Gestão de Riscos e Compliance' e 'MBA em Gestão de Pessoas e Liderança' pela Faculdade Líbano.
+- 🏢 Atualmente atuo como Trainee em Governança, Riscos e Compliance (GRC) na Grant Thornton Brasil.
 - 😄 Pronome: Ele/Dele
 - 🔖 _"Noventa e nove por cento de tudo que você procura está na internet. O um por cento que falta estará no dia seguinte"_. - Roberto Coelho
 
